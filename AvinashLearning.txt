@@ -2,3 +2,6 @@ this is a learning base
 emoji
 colors
 text
+
+display
+split
