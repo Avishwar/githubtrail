@@ -5,3 +5,6 @@ text
 
 display
 split
+if emoji == colors
+then
+true
